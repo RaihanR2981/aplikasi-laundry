@@ -24,7 +24,7 @@ Aplikasi ini mencakup serangkaian fitur yang komprehensif untuk memenuhi kebutuh
 * **Manajemen Pengguna**: Admin dapat melihat daftar semua pengguna yang terdaftar dalam sistem dan dapat menghapus akun pengguna jika diperlukan.
 * **Laporan Transaksi**: Fitur untuk menghasilkan laporan transaksi berdasarkan rentang tanggal tertentu. Laporan ini mencakup total pesanan dan total pendapatan selama periode tersebut, serta daftar rinci transaksi.
 
-## 🛠️ Tools dan Teknologi
+## Tools dan Teknologi
 
 Proyek ini dibangun menggunakan teknologi web standar dan fundamental, fokus pada fungsionalitas sisi server dengan PHP.
 
@@ -64,4 +64,5 @@ Untuk memudahkan pengujian, Anda bisa langsung login menggunakan akun yang sudah
 
 -   **User (Pelanggan)**
     -   **Email**: `user@laundry.com`
+
     -   **Password**: `user123`
