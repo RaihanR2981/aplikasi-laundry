@@ -255,7 +255,7 @@ body { -ms-overflow-style: none; scrollbar-width: none; }
     }
     .hero-section p {
     font-size: 1.2em;
-    color: #FFFFFF; /* Ubah atau tambahkan baris ini */
+    color: #FFFFFF; 
     margin-top: 10px;
     /* Properti lainnya */
 }
@@ -318,4 +318,5 @@ body { -ms-overflow-style: none; scrollbar-width: none; }
     .about-grid {
         grid-template-columns: 1fr;
     }
+
 }
